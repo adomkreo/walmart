@@ -4,4 +4,6 @@ olu
 keren
 djame
 oru
+yori
+doudou
 
