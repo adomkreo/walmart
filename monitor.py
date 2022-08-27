@@ -1,0 +1,4 @@
+lame
+dame
+rame
+goto
