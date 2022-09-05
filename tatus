@@ -1,0 +1,109 @@
+[33mcommit abb57689096fe8f1c821cdd79701e3e9bae2d774[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m, [m[1;33mtag: pp-v.1.0.2[m[33m, [m[1;31mpp/feature[m[33m)[m
+Author: Ahmed Dom <ahmeddjamon@yahoo.fr>
+Date:   Sun Aug 28 10:41:32 2022 +0000
+
+    ada hair added
+
+[33mcommit 2063419759aed2d6f55a61ad0f5b21c828982922[m
+Author: Ahmed Dom <ahmeddjamon@yahoo.fr>
+Date:   Sun Aug 28 10:40:06 2022 +0000
+
+    latest devops
+
+[33mcommit 124a18cc04731f1596c639a5afba40cbf6c5383f[m
+Author: Ahmed Dom <ahmeddjamon@yahoo.fr>
+Date:   Sun Aug 28 10:34:17 2022 +0000
+
+    devops here i am
+
+[33mcommit 25e9c83f90e3c559ac50f06fe12059c1efcdf3c0[m[33m ([m[1;31mpp/master[m[33m)[m
+Author: Ahmed Dom <ahmeddjamon@yahoo.fr>
+Date:   Sun Aug 28 10:46:26 2022 +0000
+
+    where is added
+
+[33mcommit 6b3f0d84efbb1d32bb264d9cb78d6d29dbe56e3b[m
+Merge: 1342d0c 0f5a76e
+Author: Ahmed Dom <ahmeddjamon@yahoo.fr>
+Date:   Sun Aug 28 00:53:36 2022 +0000
+
+    merging
+
+[33mcommit 1342d0c4b8a6ae96fba1542cc55745b26d5b626b[m
+Author: Ahmed Dom <ahmeddjamon@yahoo.fr>
+Date:   Sun Aug 28 00:51:35 2022 +0000
+
+    master deployment
+
+[33mcommit 0f5a76e1d59518661e27d6b56bbd0bd99f1d639f[m
+Author: Ahmed Dom <ahmeddjamon@yahoo.fr>
+Date:   Sun Aug 28 00:47:44 2022 +0000
+
+    deployment4
+
+[33mcommit 70c4c5415c1dc3eb6c42518c6bb800ec2749388a[m
+Merge: 56fcf4f 45999c1
+Author: Ahmed Dom <ahmeddjamon@yahoo.fr>
+Date:   Sun Aug 28 00:08:52 2022 +0000
+
+    bugfix merget to master
+
+[33mcommit 56fcf4fc88d4cfaf969fca9d1cb62f1c61984cd4[m
+Author: Ahmed Dom <ahmeddjamon@yahoo.fr>
+Date:   Sat Aug 27 23:53:14 2022 +0000
+
+    amara created
+
+[33mcommit 45999c12c7e69c05a605799b21ea7fe4ad3a5f88[m
+Author: Ahmed Dom <ahmeddjamon@yahoo.fr>
+Date:   Sat Aug 27 23:50:09 2022 +0000
+
+    joy girl created
+
+[33mcommit a2bedb325b5a9baeba4cf017453b2404a1879ee1[m
+Author: Ahmed Dom <ahmeddjamon@yahoo.fr>
+Date:   Sat Aug 27 23:49:26 2022 +0000
+
+    jerry created
+
+[33mcommit f1858214230b265c7e8e1527cc65d50550fdf3b1[m
+Author: Ahmed Dom <ahmeddjamon@yahoo.fr>
+Date:   Sat Aug 27 21:52:22 2022 +0000
+
+    deployment file
+
+[33mcommit 64700197a1c2f1892b0c630f234d47831169ed26[m
+Author: Ahmed Dom <ahmeddjamon@yahoo.fr>
+Date:   Sat Aug 27 21:39:00 2022 +0000
+
+    .gitignore created
+
+[33mcommit e403246720ef889693515dfa4ddaaadead563e83[m
+Author: adomkreo <111804337+adomkreo@users.noreply.github.com>
+Date:   Sat Aug 27 14:43:29 2022 -0400
+
+    Create monitor.py
+
+[33mcommit 5eed46633ed0b449ddffda0bb7b125c5aaad2a28[m
+Author: adomkreo <111804337+adomkreo@users.noreply.github.com>
+Date:   Sat Aug 27 14:29:06 2022 -0400
+
+    Update list.java
+
+[33mcommit 9872e29c7c38c16c485d4599c306483e0c0955e0[m
+Author: Ahmed Dom <ahmeddjamon@yahoo.fr>
+Date:   Sat Aug 27 18:11:58 2022 +0000
+
+    user list created
+
+[33mcommit 5c6721cebe9931d9aaf7008c700f9f214a46200d[m
+Author: Ahmed Dom <ahmeddjamon@yahoo.fr>
+Date:   Sat Aug 27 17:57:06 2022 +0000
+
+    deployment file on the way
+
+[33mcommit ca479a9db2104caf2858004b89436a2c3a8965a5[m
+Author: Ahmed Dom <ahmeddjamon@yahoo.fr>
+Date:   Sat Aug 27 17:53:19 2022 +0000
+
+    cases created
